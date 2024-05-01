@@ -1,0 +1,20 @@
+.vscode/
+
+# nodejs
+nodejs/*/node_modules/
+nodejs/*/node_modules/**
+package.json
+package-lock.json
+*_deasync.js
+nodejs/*/test.js
+
+# java
+java/.metadata/
+java/*/.settings/
+java/*/bin/
+java/*/.classpath
+java/*/.project
+java/**/*.class
+
+# python
+__pycache__/

@@ -10,4 +10,4 @@
 2. [Leetcode](https://leetcode.com/)
 
 ### 언어
-1. [Python](/python/)
+1. [Python](/python)
