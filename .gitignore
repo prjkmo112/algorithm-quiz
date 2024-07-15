@@ -18,3 +18,4 @@ java/**/*.class
 
 # python
 __pycache__/
+test.py
